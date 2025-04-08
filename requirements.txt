@@ -1,0 +1,11 @@
+Flask
+PyPDF2
+gunicorn
+numpy
+python-dotenv
+requests
+scikit-learn
+sentence-transformers
+transformers
+torch
+huggingface_hub
